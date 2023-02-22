@@ -1,0 +1,7 @@
+Id,PosId,PosTitle,EmployeeId,StartDate,EndDate
+1,50000,IT Manager,10105001,01-Jan-22,28-Feb-22
+2,50001,IT Sr. Manager,10105001,01-Mar-22,31-Dec-22
+3,50002,Programmer Analyst,10105002,01-Jan-22,28-Feb-22
+4,50003,Sr Programmer Analyst,10105002,01-Mar-22,31-Dec-22
+5,50004,IT Admin,10105003,01-Jan-22,28-Feb-22
+6,50005,IT Secrectary,10105004,01-Mar-22,31-Dec-22
